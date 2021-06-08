@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\WebProject\bin\WebProject.dll.config
+C:\Users\Lenovo\source\repos\WebProject\bin\WebProject.dll
+C:\Users\Lenovo\source\repos\WebProject\bin\WebProject.pdb
+C:\Users\Lenovo\source\repos\WebProject\obj\Debug\WebProject.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\WebProject\obj\Debug\WebProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\WebProject\obj\Debug\WebProject.dll
+C:\Users\Lenovo\source\repos\WebProject\obj\Debug\WebProject.pdb
